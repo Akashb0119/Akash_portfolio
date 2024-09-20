@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Akash_portfolio/static/css/main.bc8d31e8.css",
+    "main.js": "/Akash_portfolio/static/js/main.8e84f0b5.js",
+    "static/js/453.ace21015.chunk.js": "/Akash_portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/pro pic.jpg": "/Akash_portfolio/static/media/pro pic.67ebfd3d8f1dac8c2034.jpg",
+    "static/media/Html css.png": "/Akash_portfolio/static/media/Html css.ac2e06c81492b3658191.png",
+    "static/media/insta.png": "/Akash_portfolio/static/media/insta.f6c05cecc3987d4107de.png",
+    "static/media/BE.png": "/Akash_portfolio/static/media/BE.1d17c31a1e8630e697d9.png",
+    "static/media/django.png": "/Akash_portfolio/static/media/django.ecc6874c258f009aae26.png",
+    "static/media/git.png": "/Akash_portfolio/static/media/git.d45f1900d8999721399f.png",
+    "static/media/whatsapp.png": "/Akash_portfolio/static/media/whatsapp.108d771752aee7736120.png",
+    "static/media/JS.png": "/Akash_portfolio/static/media/JS.3cacb63905f322fb3541.png",
+    "static/media/React.png": "/Akash_portfolio/static/media/React.0f0770d11005fa1eadb0.png",
+    "static/media/mongodb.jpg": "/Akash_portfolio/static/media/mongodb.67cc1e86de67818b1b7e.jpg",
+    "static/media/web4.jpeg": "/Akash_portfolio/static/media/web4.3bd20c7eb106a4b13703.jpeg",
+    "static/media/12th.jpg": "/Akash_portfolio/static/media/12th.0511b3e576c1628f1221.jpg",
+    "static/media/TS.png": "/Akash_portfolio/static/media/TS.bb13ebd9561a6ee645c2.png",
+    "static/media/10th.jpg": "/Akash_portfolio/static/media/10th.c7e99c2f371b3433053f.jpg",
+    "index.html": "/Akash_portfolio/index.html",
+    "main.bc8d31e8.css.map": "/Akash_portfolio/static/css/main.bc8d31e8.css.map",
+    "main.8e84f0b5.js.map": "/Akash_portfolio/static/js/main.8e84f0b5.js.map",
+    "453.ace21015.chunk.js.map": "/Akash_portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8d31e8.css",
+    "static/js/main.8e84f0b5.js"
+  ]
+}
