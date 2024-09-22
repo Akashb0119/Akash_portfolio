@@ -1,0 +1,25 @@
+
+.flip-cards{
+   
+    width: 350px;
+    height: 350px;
+    margin-left:10px;
+    margin-top: 20px;
+   text-align: center;
+   box-shadow:1px 3px 20px gray;
+   
+  }
+  .flip-cards:hover{
+    background-color:rgb(237, 196, 84) ;
+    border: none;
+    cursor: pointer;
+    box-shadow: none;
+  }
+  .p{
+    overflow: auto;
+  }
+
+ 
+  
+
+  

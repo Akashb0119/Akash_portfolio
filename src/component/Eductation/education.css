@@ -1,0 +1,64 @@
+.tooltip img{
+    width: 70px;
+    height:70px;
+    border-radius: 50%;
+    border: 5px solid rgb(237, 196, 84);
+    margin:10px;
+}
+
+.tooltip .T_BE ,.tooltip .T_SSLC{
+position:absolute;
+margin-top:35px;
+margin-left:10px;
+font-weight:bold;
+font-size:20px;
+letter-spacing:1px;
+}
+.tooltip .T_HSC{
+    position:absolute;
+    margin-top:35px;
+    left:500px;
+    font-weight:bold;
+font-size:20px;
+letter-spacing:1px;
+}
+
+.tooltip .line{
+
+    width:2px;
+    height: 200px;
+    border-left: 5px solid black;
+    position: relative;
+    margin-left:5px;
+}
+.BE .context-1{
+    position: absolute;
+    top:150px;
+    left:640px;
+    visibility: hidden;
+    
+    
+}
+.HSC .context-2{
+    position: absolute;
+    top:480px;
+    left:70px;
+    visibility: hidden;
+    
+}
+.SSLC .context-3{
+    position: absolute;
+    top:780px;
+    left:640px;
+    visibility: hidden;
+    
+}
+.BE:hover .context-1{
+    visibility:visible;
+}
+.HSC:hover .context-2{
+    visibility:visible;
+}
+.SSLC:hover .context-3{
+    visibility:visible;
+}

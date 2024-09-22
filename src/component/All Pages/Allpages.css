@@ -1,0 +1,8 @@
+.TabBar>img{
+    position: relative;
+  
+    width:350px;
+    height:350px;
+    margin-top: 20px;
+    box-shadow: 1px 3px 10px gray;
+}
